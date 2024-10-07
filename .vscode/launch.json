@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+      {
+        "name": "DocDoc Development",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main_development.dart",
+        "args": ["--flavor", "Development", "--target", "lib/main_development.dart" ]
+      },
+      {
+        "name": "DocDoc Prodaction",
+        "request": "launch",
+        "type": "dart",
+        "program": "lib/main_prodaction.dart",
+        "args": ["--flavor", "Prodaction", "--target", "lib/main_prodaction.dart" ]
+      }
+    ],
+    
+  }

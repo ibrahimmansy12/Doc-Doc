@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650065379518",
+    "project_id": "sflutter-advance",
+    "storage_bucket": "sflutter-advance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650065379518:android:5365d0cf3a189ead22deef",
+        "android_client_info": {
+          "package_name": "com.example.flutter_advance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqTEFZosisBd6dMSJhqarcKF1pVPbAtEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
